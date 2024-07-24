@@ -1,10 +1,17 @@
-# The AI Trainspotter
-
-<img src="images/ai_trainspotter_2.jpg" width="300">
-
-<p align="center">
-   <img src="images/ai_trainspotter_2_300.jpg">
-</p>
-
+<img align="right" 
+src="images/ai_trainspotter_2_300.jpg">
+\
+\
+The AI Trainspotter
+----
 
 Using AI to detect, identify and track model railway trains.
+\
+\
+This respository contains the assets used to support the AI Trainspotter Blog on the MERG KnowledgeBase.
+
+
+
+
+
+
